@@ -1,6 +1,6 @@
 # corona-ES
-Analysis for corona cases 30/1/2020 - 30/09/2020
-In this notebook you could find an analysis for the corona cases in Spain from 30/1/2020 to 30/09/2020. The purpose of the investigation is to analyse the access to PCR test by 
+Analysis for corona cases 30/1/2020 - 05/11/2020
+In this notebook you could find an analysis for the corona cases in Spain from 30/1/2020 to 05/11/2020. The purpose of the investigation is to analyse the access to PCR test by 
 region during the first and the second wave.
  
  The analysis is mainly focus in the first stage of the study on the different regions in Spain giving the following variables:
