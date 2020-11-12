@@ -4,8 +4,8 @@ In this notebook you could find an analysis for the corona cases in Spain from 3
 region during the first and the second wave.
  
  The analysis is mainly focus in the first stage of the study on the different regions in Spain giving the following variables:
-    - Total cases per region and distribution on time series.
-    - Cases detected by PCR test, antibodies, others and unknknown.
+  - Total cases per region and distribution on time series.
+  - Cases detected by PCR test, antibodies, others and unknknown.
     
 Variables:
  - Total: Sum of new cases detected y PCR, antibodies, others and unknown.
